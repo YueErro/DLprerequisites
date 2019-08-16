@@ -8,6 +8,11 @@ Get the code:
 cd && git clone https://github.com/YueErro/DLprerequisites.git
 ```
 
+Make sure you have the required dependencies installed:
+```sh
+pip3 install -r ~/DLprerequisites/requirements.txt
+```
+
 To try it out:
 ```sh
 python3 ~/DLprerequisites/exercises/ex1.py
